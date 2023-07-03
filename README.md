@@ -7,5 +7,7 @@ aim was to identify segments where our vehicle booking service can potentially g
 
 #  For the other team members analysis
 https://colab.research.google.com/drive/1KxEQBjYZBXNSjmGLg7ewtag4Wzs7bx5g?usp=sharing#scrollTo=yY16RD82EQAM
+
 https://github.com/MYSTIC-HUNTER/Online-Vehicle-Booking
+
 https://github.com/archanarajeshwar/market_segmentation_online_vehicle_booking
